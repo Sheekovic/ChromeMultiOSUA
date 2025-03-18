@@ -35,7 +35,7 @@ ChromeMultiOSUA is a flexible Python module designed to generate realistic Googl
 Clone this repository or download the module files:
 
 ```bash
-git clone https://github.com/sheekovic/chrome-multi-os-ua.git
+git clone https://github.com/Sheekovic/ChromeMultiOSUA.git
 ```
 
 Then, navigate into the directory:
