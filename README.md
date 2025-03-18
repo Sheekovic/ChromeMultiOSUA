@@ -1,12 +1,3 @@
----
-
-**Module Name:** **ChromeWinUA**
-
----
-
-**README.md:**
-
-```markdown
 # ChromeWinUA
 
 ChromeWinUA is a lightweight Python module designed to generate realistic Google Chrome user agent strings for Windows 10 and Windows 11. It features dynamic version simulation, configurable settings, error handling, logging, caching, and basic unit tests—all packaged in a modular, easy-to-integrate class.
