@@ -41,7 +41,7 @@ git clone https://github.com/Sheekovic/ChromeMultiOSUA.git
 Then, navigate into the directory:
 
 ```bash
-cd chrome-multi-os-ua
+cd ChromeMultiOSUA
 ```
 
 Install the required dependencies:
