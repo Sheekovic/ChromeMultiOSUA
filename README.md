@@ -30,7 +30,7 @@ ChromeWinUA is a lightweight Python module designed to generate realistic Google
 Clone this repository or download the module files:
 
 ```bash
-git clone https://github.com/yourusername/chrome-win-ua.git
+git clone https://github.com/sheekovic/chrome-win-ua.git
 ```
 
 Then, navigate into the directory:
